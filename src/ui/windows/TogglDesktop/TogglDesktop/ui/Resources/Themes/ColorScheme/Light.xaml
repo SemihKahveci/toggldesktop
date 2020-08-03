@@ -20,7 +20,7 @@
     <!-- White -->
     <Color x:Key="Toggl.SelectionElements.BackgroundColor">#FFFFFF</Color>
 
-    <Color x:Key="Toggl.AccentColor">#4BC800</Color>
+    <Color x:Key="Toggl.AccentColor">#DF68D0</Color>
     <Color x:Key="Toggl.AccentColorPlusOne">#81CF55</Color>
     <Color x:Key="Toggl.AccentColorPlusTwo">#A9E386</Color>
     <Color x:Key="Toggl.AccentColorPlusThree">#C9F2B1</Color>
