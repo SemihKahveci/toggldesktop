@@ -341,7 +341,7 @@
             <Trigger Property="IsChecked" Value="True">
                 <Setter Property="Background" Value="{DynamicResource Toggl.GroupIcon.ExpandedBackground}" />
                 <Setter Property="BorderBrush" Value="{DynamicResource Toggl.GroupIcon.ExpandedBackground}" />
-                <Setter Property="Foreground" Value="{DynamicResource Toggl.AccentPlusOneBrush}" />
+                <Setter Property="Foreground" Value="{DynamicResource Toggl.AccentBrush}" />
             </Trigger>
         </Style.Triggers>
     </Style>
