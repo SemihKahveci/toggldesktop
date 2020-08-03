@@ -32,7 +32,7 @@
     <Color x:Key="Toggl.AccentColorMinusTwo">#15730D</Color>
     <Color x:Key="Toggl.AccentColorMinusThree">#0F4D15</Color>
 
-    <Color x:Key="Toggl.SecondaryAccentColor">#DF68D0</Color>
+    <Color x:Key="Toggl.SecondaryAccentColor">#FF897A</Color>
     <Color x:Key="Toggl.SecondaryAccentColorFivePercentDarker">#F22A50</Color>
     <Color x:Key="Toggl.SecondaryAccentColorTenPercentDarker">#E5284C</Color>
     <Color x:Key="Toggl.SecondaryAccentColorTwentyFivePercentDarker">#BF213F</Color>

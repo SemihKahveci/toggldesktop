@@ -9,7 +9,7 @@
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type Thumb}">
                     <Border Name="Border"
-                            Background="{DynamicResource Toggl.SecondaryAccentBrush}"
+                            Background="{DynamicResource Toggl.AccentBrush}"
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="0"
                     />
