@@ -4,15 +4,15 @@
     <!-- Black -->
     <Color x:Key="Toggl.BlackColor">#2C1338</Color>
     <!-- Dark Gray -->
-    <Color x:Key="Toggl.DarkGrayColor">#333333</Color>
+    <Color x:Key="Toggl.DarkGrayColor">#564360</Color>
     <!-- Gray -->
     <Color x:Key="Toggl.GrayColor">#555555</Color>
     <!-- Grayish -->
-    <Color x:Key="Toggl.Grayish1Color">#ACACAC</Color>
+    <Color x:Key="Toggl.Grayish1Color">#ABA0AF</Color>
     <!-- Grayish -->
     <Color x:Key="Toggl.Grayish2Color">#858585</Color>
     <!-- Light Gray -->
-    <Color x:Key="Toggl.LightGrayColor">#D9D9D9</Color>
+    <Color x:Key="Toggl.LightGrayColor">#DCD2E0</Color>
     <!-- Off-white -->
     <Color x:Key="Toggl.OffWhiteColor">#FEF9F8</Color>
     <!-- White -->
@@ -21,27 +21,23 @@
     <Color x:Key="Toggl.SelectionElements.BackgroundColor">#FFFFFF</Color>
 
     <Color x:Key="Toggl.AccentColor">#DF68D0</Color>
-    <Color x:Key="Toggl.AccentColorPlusOne">#81CF55</Color>
-    <Color x:Key="Toggl.AccentColorPlusTwo">#A9E386</Color>
-    <Color x:Key="Toggl.AccentColorPlusThree">#C9F2B1</Color>
-    <Color x:Key="Toggl.AccentColorFivePercentDarker">#47BD00</Color>
-    <Color x:Key="Toggl.AccentColorTenPercentDarker">#43B300</Color>
-    <Color x:Key="Toggl.AccentColorMinusOne">#41AF00</Color>
-    <Color x:Key="Toggl.AccentColorTwentyFivePercentDarker">#389700</Color>
-    <Color x:Key="Toggl.AccentColorThirtyPercentDarker">#358F00</Color>
-    <Color x:Key="Toggl.AccentColorMinusTwo">#15730D</Color>
-    <Color x:Key="Toggl.AccentColorMinusThree">#0F4D15</Color>
+    <Color x:Key="Toggl.AccentColorPlusOne">#E583D9</Color>
 
     <Color x:Key="Toggl.SecondaryAccentColor">#FF897A</Color>
-    <Color x:Key="Toggl.SecondaryAccentColorFivePercentDarker">#F22A50</Color>
-    <Color x:Key="Toggl.SecondaryAccentColorTenPercentDarker">#E5284C</Color>
-    <Color x:Key="Toggl.SecondaryAccentColorTwentyFivePercentDarker">#BF213F</Color>
-    <Color x:Key="Toggl.SecondaryAccentColorThirtyPercentDarker">#B21F3B</Color>
-    <Color x:Key="Toggl.SecondaryAccentColorMinusOne">#DE274A</Color>
     <Color x:Key="Toggl.ErrorColor">#FF3B30</Color>
     <Color x:Key="Toggl.ErrorMessageBackgroundColor">#E20505</Color>
 
     <!-- derived colors: -->
+    <Color x:Key="Toggl.AccentColorFivePercentDarker">#D463C6</Color>
+    <Color x:Key="Toggl.AccentColorTenPercentDarker">#C95EBB</Color>
+    <Color x:Key="Toggl.AccentColorTwentyFivePercentDarker">#A74E9C</Color>
+    <Color x:Key="Toggl.AccentColorThirtyPercentDarker">#9C4992</Color>
+
+    <Color x:Key="Toggl.SecondaryAccentColorFivePercentDarker">#F28274</Color>
+    <Color x:Key="Toggl.SecondaryAccentColorTenPercentDarker">#E67B6E</Color>
+    <Color x:Key="Toggl.SecondaryAccentColorTwentyFivePercentDarker">#BF675C</Color>
+    <Color x:Key="Toggl.SecondaryAccentColorThirtyPercentDarker">#B36055</Color>
+
     <Color x:Key="Toggl.FivePercentBlackColor">#F2F2F2</Color>
     <Color x:Key="Toggl.TransparentBlackColor">#00F2F2F2</Color>
 
