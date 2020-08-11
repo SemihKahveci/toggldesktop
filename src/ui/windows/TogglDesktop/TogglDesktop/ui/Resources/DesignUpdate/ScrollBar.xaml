@@ -15,7 +15,7 @@
                     />
                     <ControlTemplate.Triggers>
                         <Trigger Property="IsMouseCaptured" Value="true">
-                            <Setter TargetName="Border" Property="Background" Value="{DynamicResource Toggl.Button.Accent.Red.PressedBackground}" />
+                            <Setter TargetName="Border" Property="Background" Value="{DynamicResource Toggl.Button.Accent.PressedBackground}" />
                         </Trigger>
                         <Trigger Property="IsEnabled" Value="False">
                             <Setter TargetName="Border" Property="Opacity" Value="0" />
